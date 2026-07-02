@@ -1,6 +1,7 @@
-# Faculty Appointment Management System
+# Mentor Link - Faculty Appointment Management System
 
 A full-stack web application for managing appointments between students and faculty mentors at a university or educational institution. Originally a MERN-stack student project; currently being rebuilt into a production-oriented system with TypeScript, role-based access control, and real-time features.
+Link : https://mentor-link-woad.vercel.app
 
 > **Status: rebuild complete.** All 9 phases of the rebuild have shipped — see the progress table below for what each phase covered. The new backend (`backend/`) and frontend (`frontend/`) are deployment-ready; deployment configs (`render.yaml`, `vercel.json`) are included. If you're looking for the original, registration-based version that this replaced, it's preserved for reference under the original `backend/` and `frontend/` directory names before the rebuild — check your repo history if you need to distinguish them after merging.
 
